@@ -21,11 +21,23 @@
 
 <p align="center">
 
-- **Languages**:
+- **Operating Systems**:
 
-    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![C/C++](https://img.shields.io/badge/c/c++-38B2AC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+    ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+    
 
+</br>
+
+- **Skills**:
+
+    ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+    ![ASM](https://img.shields.io/badge/ASM-FF4000?style=for-the-badge&logo=x86&logoColor=white)&nbsp;
+    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+    ![PS](https://img.shields.io/badge/Powershell-2CA5E0?style=for-the-badge&logo=powershell&logoColor=white)&nbsp;
+    
 </br>   
 
 <!---
