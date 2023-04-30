@@ -10,8 +10,7 @@
 - Building an actual Operating System.
 - Fan of music, drawing, and video games.
 - Currently avilable for job applications. Feel free to contact me.
-
-<br><br>
+</br>
 
 <!---
 TDDev04/TDDev04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
