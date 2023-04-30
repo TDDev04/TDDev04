@@ -5,12 +5,16 @@
 </p>
 
 <br>
-- Programming has no limits at all.
-- Currently interested in solving complex problems.
-- Building an actual Operating System.
-- Fan of music, drawing, and video games.
-- Currently avilable for job applications. Feel free to contact me.
 
+- Programming has no limits at all.
+- 
+- Currently interested in solving complex problems.
+- 
+- Building an actual Operating System.
+- 
+- Fan of music, drawing, and video games.
+- 
+- Currently avilable for job applications. Feel free to contact me.
 </br>
 
 <!---
