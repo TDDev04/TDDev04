@@ -17,6 +17,17 @@
 - Currently avilable for job applications. Feel free to contact me.
 </br>
 
+<br>
+
+<p align="center">
+
+- **Languages**:
+
+    ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+    ![C/C++](https://img.shields.io/badge/c/c++-38B2AC?style=for-the-badge&logo=C&logoColor=white)&nbsp;
+
+</br>   
+
 <!---
 TDDev04/TDDev04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
